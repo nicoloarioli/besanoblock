@@ -222,15 +222,20 @@ label {
   margin-bottom: 18px;
 }
 
+/*botte */
+
 .btn {
   border-radius: 0;
-  padding: 13px 28px;
+  padding: 10px 10px;
   transition: all 0.2s ease;
   max-width: 100%;
 }
 
 .btn-small {
-  padding: 10px 24px;
+  padding: 5px 12px;
+  background-color: transparent;
+  color: black;
+  border-color: #999999
 }
 
 .btn-primary {
@@ -296,7 +301,7 @@ label {
 }
 
 .tm-table-mt {
-  margin-top: 66px;
+  margin-top: 20px;
 }
 
 .page-item:first-child .page-link {
